@@ -1,0 +1,7 @@
+server/node_modules
+server/config/default.json
+server/routes/update.db.routes.js
+client/node_modules
+client/dist
+client/.cache
+client/.env
